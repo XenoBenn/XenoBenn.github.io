@@ -1,0 +1,8 @@
+            - name: Setup Zine
+  # You may pin to the exact commit or the version.
+  # uses: kristoff-it/setup-zine@46308d08c1c1316d1927adcc3eaaba8037f10c1e
+  uses: kristoff-it/setup-zine@v1
+  with:
+    # Version of Zine to fetch
+    version: # default is v0.10.0
+          
