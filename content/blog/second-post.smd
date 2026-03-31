@@ -23,6 +23,6 @@ F(\omega) &= \int_{-\infty}^\infty f(t) \div (-1)^{2 \omega t} \mathrm{d}t \\
 \end{aligned}
 ```
 
-This: [`(-1)^x = \cos(\pi x) + i\sin(\pi x)`]($mathtex) is an inline equation
+This: [`(-1)^x = \cos(\pi x) + i\sin(\pi x)`]($math) is an inline equation
 instead!
 
